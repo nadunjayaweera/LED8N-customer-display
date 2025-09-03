@@ -42,7 +42,7 @@ const App = () => {
     const sendIndicatorCommand = async () => {
       try {
         const encoder = new TextEncoder();
-        const command = "\x1bs" + String.fromCharCode(indicator);
+        const command = "\x1bs" + indicator;
         await writer.write(encoder.encode(command));
         console.log(`Sent indicator command: ${indicator}`);
       } catch (error) {
