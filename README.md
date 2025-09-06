@@ -2,7 +2,7 @@
 
 This project is a React-based web interface to control a PD-LED8 customer display.
 
-![Customer Display](docs/images/IMG_1.jpg)
+![Customer Display](IMG_1.jpg)
 
 ## Features
 
@@ -14,10 +14,10 @@ This project is a React-based web interface to control a PD-LED8 customer displa
 To connect the display, please follow the instructions in the images below:
 
 **Connection Setup 1:**
-![Connection 1](docs/images/IMG_2.jpg)
+![Connection 1](IMG_2.jpg)
 
 **Connection Setup 2:**
-![Connection 2](docs/images/IMG_3.jpg)
+![Connection 2](IMG_3.jpg)
 
 _Note: Please refer to the `LED8 custom display command.pdf` for more details on the display commands._
 
