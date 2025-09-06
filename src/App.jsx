@@ -4,7 +4,7 @@ import "./App.css";
 const App = () => {
   const [port, setPort] = useState(null);
   const [writer, setWriter] = useState(null);
-  const [text, setText] = useState("Hello World");
+  const [text, setText] = useState("12345678");
   const [error, setError] = useState(null);
   const [indicator, setIndicator] = useState(0);
 
