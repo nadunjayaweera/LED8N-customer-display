@@ -17,7 +17,7 @@ To connect the display, please follow the instructions in the images below:
 ![Connection 1](IMG_2.jpg)
 
 **Connection Setup 2:**
-![Connection 2](IMG_3.jpg)
+![Connection 2](IMG_3.png)
 
 _Note: Please refer to the `LED8 custom display command.pdf` for more details on the display commands._
 
